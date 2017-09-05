@@ -1,16 +1,16 @@
 Algoritmo "SomarDe1a100"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina  :  [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
+// Professor   : Douglas Barcelos 
+// DescriÃ§Ã£o   : Soma os numeros de 1 a 100
+// Autor(a)    : Eu mesmo
 // Data atual  : 04/09/2017
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 i : inteiro
 somatorio : inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 i <- 1
 somatorio <- 0
 
